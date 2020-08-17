@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+so far so good
+Excited for the future.
